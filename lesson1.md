@@ -17,3 +17,9 @@ E - інвентар
 ЛКМ - руйнувати
 
 <img src="./img/controls.png">
+
+### Зміна погоди
+
+<img src="./img/weather1.png">
+
+<img src="./img/weather2.png">
