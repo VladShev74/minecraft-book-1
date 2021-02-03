@@ -6,4 +6,4 @@
 
 Т- чат, де даємо команду
 
-<img src="scratch1.png" height=500>
+<img src="./img/scratch1.png" height=500>
