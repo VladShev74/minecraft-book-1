@@ -16,3 +16,4 @@ E - інвентар
 
 ЛКМ - руйнувати
 
+<img src="./img/controls.png">
