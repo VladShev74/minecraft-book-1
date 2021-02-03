@@ -16,10 +16,12 @@ E - інвентар
 
 ЛКМ - руйнувати
 
-<img src="./img/controls.png">
+<img src="./img/controls.png" height=600>
 
 ### Зміна погоди
 
-<img src="./img/weather1.png">
+<img src="./img/weather1.png" height=500>
 
-<img src="./img/weather2.png">
+<img src="./img/weather2.png" height=500>
+
+**Завдання:** збудувати парк та встановити всередині фонтан
