@@ -42,11 +42,44 @@
 
 ### Коротший
 
-<img src="./img/agent7.png" height="700">
+<img src="./img/agent7.png" width="700">
 
 ### Заповнюємо
 
-<img src="./img/agent8.png" height="700">
+<img src="./img/agent8.png" width="800">
+
+### 2 спосіб: одразу саджаємо по рядам
+
+1 ряд
+
+<img src="./img/agent9.png" width="400">
+
+### 2 ряди
+
+Насипати костної муки
+
+<img src="./img/agent10.png" height="500">
+
+### Агент будує стіну під час руху “На ходу”
+
+<img src="./img/agent11.png" width="600">
+
+### ДЗ
+
+Ми саджали дерева по периметру квадрата.
+
+Завдання: засадити середину цього квадрату деревами  через код для Агента
+
+<img src="./img/homework4.png" width="600">
+
+
+
+
+
+
+
+
+
 
 
 
