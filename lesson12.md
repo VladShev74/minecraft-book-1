@@ -24,6 +24,6 @@
 
 <img src="./img/lesson12-7.png" width="600">
 
-<img src="./img/lesson12-7.png" width="600">
+<img src="./img/lesson12-8.png" width="600">
 
-<img src="./img/lesson12-7.png" width="600">
+<img src="./img/lesson12-9.png" width="600">
