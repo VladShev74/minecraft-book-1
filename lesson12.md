@@ -10,9 +10,9 @@
 
 ### Завдання: Агент будує небезпечну вежу
 
-<img src="./img/lesson12-3.png" width="600">
+<img src="./img/lesson12-3.png" width="500">
 
-<img src="./img/lesson12-4.png" width="600">
+<img src="./img/lesson12-4.png" width="500">
 
 ### Відповідь:
 
