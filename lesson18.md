@@ -35,3 +35,9 @@
 <img src="./img/lesson18-11.png" width="600">
 
 <img src="./img/lesson18-12.png" width="600">
+
+### ДЗ: 
+Підземна скляна лабораторія з білим ведмедем, що підсвічує вхід ліхтарем
+
+
+<img src="./img/lesson18-13.png" width="500">
