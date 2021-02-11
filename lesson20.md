@@ -70,15 +70,58 @@
 
 <img src="./img/lesson20-13.png" width="500">
 
+### Створення вежі методом охолодження лави
 
+<img src="./img/lesson11-2.png" width="600">
 
+### Світ з Сантою
 
+<img src="./img/lesson20-14.png" width="350">
 
+### Гірлянда
 
+<img src="./img/lesson20-15.png" height="600">
 
+### Різного типу лінії
 
+<img src="./img/lesson20-16.png" height="600">
 
+### Кругла башта з дахом (змінні)
 
+<img src="./img/lesson20-17.png" height="600">
 
+### До башти ще світильники
 
+<img src="./img/lesson20-18.png" width="500">
 
+### Павутинкова гірлянда
+
+<img src="./img/lesson20-19.png" height="600">
+
+<img src="./img/lesson20-20.png" height="600">
+
+### Кругла башта з дахом
+
+<img src="./img/lesson20-21.png" height="600">
+
+<img src="./img/lesson20-22.png" height="600">
+
+<img src="./img/lesson20-23.png" height="700">
+
+### Хатка-півсфера
+
+<img src="./img/lesson20-24.png" width="500">
+
+<img src="./img/lesson20-25.png" width="400">
+
+### Скульптура зайця
+
+<img src="./img/lesson20-26.png" height="600">
+
+<img src="./img/lesson20-27.png" width="500">
+
+### Цукерка “Посох”
+
+Гігантська скульптура
+
+<img src="./img/lesson20-28.png" height="600">
